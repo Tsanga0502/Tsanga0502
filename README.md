@@ -1,7 +1,7 @@
 Yo, I'm Bendi 👋
  
 💻 IT student from Hungary
-🎸 Metalhead & rock enjoyer
+🎸 Metalhead
 🛹 Skateboarding addict
 🎸 Bass player wannabe
 🐍 Mostly messing around with Python
